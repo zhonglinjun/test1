@@ -31,7 +31,7 @@ public class Main {
 			ResultSet rs = ps.executeQuery();
 			while (rs.next()) {
 				System.out.println(rs.getString("name"));
-				System.out.println(111111);
+				System.out.println(2222222);
 			}
 		} catch (Exception e) {
 			e.printStackTrace();
