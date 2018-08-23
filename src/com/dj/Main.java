@@ -32,11 +32,15 @@ public class Main {
 			while (rs.next()) {
 				System.out.println(rs.getString("name"));
 				
-				System.out.println(55555);
+				System.out.println(222222);
+				
+				System.out.println(111111);
 
-				System.out.println(444444);
+				System.out.println(999999999);
+				System.out.println(123123);
 
-				System.out.println(33333333);
+				System.out.println(666666);
+				System.out.println(34534534);
 			}
 		} catch (Exception e) {
 			e.printStackTrace();
