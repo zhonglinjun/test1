@@ -34,9 +34,9 @@ public class Main {
 				
 				System.out.println(111111);
 
-				System.out.println(444444);
+				System.out.println(123123);
 
-				System.out.println(33333333);
+				System.out.println(34534534);
 			}
 		} catch (Exception e) {
 			e.printStackTrace();
