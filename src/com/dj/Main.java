@@ -17,7 +17,7 @@ public class Main {
 			// weblogic »·¾³ÏÂÊ¹ÓÃ
 			Hashtable ht = new Hashtable();
 			ht.put(Context.INITIAL_CONTEXT_FACTORY, "weblogic.jndi.WLInitialContextFactory");
-			ht.put(Context.PROVIDER_URL, "t3://192.168.1.66:7001");
+			ht.put(Context.PROVIDER_URL, "t3://192.168.1.66:7022201");
 			ht.put(Context.SECURITY_PRINCIPAL, "weblogic");// ÓÃ»§Ãû
 			ht.put(Context.SECURITY_CREDENTIALS, "p@ssw0rd");// ÃÜÂë
 
